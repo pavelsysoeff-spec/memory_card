@@ -150,6 +150,7 @@ questions_list.append(Question('В каком клубе играет Ронал
  'Ливерпуль', 'Челси'))
 questions_list.append(Question('Кто самый богатый человек в мире?', 'Илон Маск', 'Билл Гейтс',
  'Джефф Безос', 'Марк Цукерберг'))
+questions_list.append(Question('какого цвета небо?', 'голубое', 'красное', 'белое', 'чёрное'))
 
 main_win.score = 0
 main_win.total = 0
